@@ -14,7 +14,10 @@ const Navbar = () => {
 				/>
 			</div>
 			{/* ICONS AND USER */}
-			<div className="flex items-center gap-6 justify-end w-full">
+			<div
+				className="flex items-center gap-6 justify-end  
+			w-full"
+			>
 				<div className="bg-white rounded-full w-7 h-7 flex items-center justify-center cursor-pointer">
 					<Image src="/message.png" alt="messages" width={20} height={20} />
 				</div>
@@ -26,7 +29,7 @@ const Navbar = () => {
 						height={20}
 					/>
 					<div className="absolute -top-3 -right-3 w-5 h-5 flex items-center justify-center bg-purple-500 text-white rounded-full text-xs">
-						1
+						8
 					</div>
 				</div>
 				<div className="flex flex-col">

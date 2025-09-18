@@ -36,7 +36,7 @@ const Navbar = () => {
 					<span className="text-xs leading-3 font-medium">
 						Nuroldin U. Pimping
 					</span>
-					<span className="text-[10px] text-gray-500 text-right">Admin</span>
+					<span className="text-[10px] text-gray-500 text-right">DPO</span>
 				</div>
 				<Image
 					src="/avatar.png"

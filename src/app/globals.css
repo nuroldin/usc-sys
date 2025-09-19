@@ -15,6 +15,10 @@
 	color: black !important;
 }
 
+.rbc-btn-group {
+	display: none !important;
+}
+
 :root {
 	--background: #ffffff;
 	--foreground: #171717;
